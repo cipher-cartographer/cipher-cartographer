@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to my Github👋, I'm Kev aka Cipher-Cartographer!</h1>
 <p align="center">
-    <i>I'm a Software Developer from England, now</i> <b>based in Bussum, NL</b> <i>and currently working on a career shift into</i> <b>Cybersecurity!</b>
-  <i>Follow & Watch for</i> <b>Cybersecurity projects</b> <i>Such as</i> <b>unique software</b> <i>and also my work on</i> <b>hacking tools like Flipper Zero</b> 
+    <i>I'm a Software Developer from England, now</i> <b>based in the Netherlands</b> <i>and currently working on a career shift into</i> <b>Cybersecurity!</b>
+    <br />
+    <i>Follow & watch for</i> <b>Cybersecurity projects</b> <i>such as</i> <b>unique software</b> <i>and also my work on</i> <b>hacking tools like Flipper Zero.</b> 
+    <i>To</i> <b>beat the hacker</b> <i>you have to</i> <b>become the hacker</b> <i>is my mentra!</i> 
     <br />
     <br />
     <a href="https://hits.seeyoufarm.com/">
@@ -30,15 +32,27 @@ class AboutMe():
         self.occupation = "Owner of Burning Vertex Creative Studio and Cybersec student"
         self.birthday = date(day=11, month=1, year=1986)
         self.age = (date.today()-self.birthday).days/365  # 38 y/o
-        self.hobbies = ["Coding", "Playing Guitar", "Concerts", "Gaming", "Music"]
+        self.hobbies = ["Coding", "Playing Guitar", "Concerts", "Gaming", "Horror Movies", "Collecting KISS merch"]
         self.interests = ["Programming", "Linux", "Open Source"]
 
 if __name__ == "__main__":
     me = AboutMe()
 ```
+<br />
+<p align="left">
+🔭 I’m currently working as a software/web developer at my own startup company Burning Vertex.
+<br />
+📙 Check out my business website burningvertex.com for some of my work on that!
+<br />
+🌱 Currently doing my 'Google Cybersecurity Professional Certificate' and following it with CompTIA Security+ this fall. Shifting into Cybersecurity.
+<br />
+💬 Talk to me about collaboration on Cybersecurity projects! Anything Cybersec I want to get involved with!
+<br />
+🎉 Fun-Fact: Pet rats rule!
+</p>
 
 <br />
-
+ 
 Projects 📦
 -----------
 
@@ -68,8 +82,8 @@ My Specs 💻
 -----------
 
 ![Desktop](https://img.shields.io/badge/Custom-Desktop-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white&labelColor=FF2299)
-[![CPU](https://img.shields.io/badge/-Intel_Core_Ultra_9_285K%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600#product-specs)
-[![GPU](https://img.shields.io/badge/-Intel_Core_Ultra_9_285K-333333?style=for-the-badge&logo=amd&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
+[![CPU](https://img.shields.io/badge/-Intel_Core_Ultra_9_285K%E2%81%A0%20%E2%81%A0%20-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600#product-specs)
+[![GPU](https://img.shields.io/badge/-GPU_Intel_Core_Ultra_9_285K-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=ED1C24)](https://www.amd.com/en/products/apu/amd-ryzen-5-3500u#product-specs)
 
 Get in Touch 📡
 ---------------
