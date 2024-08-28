@@ -96,7 +96,8 @@ Get in Touch 📡
 ---------------
 
 [![Instagram](https://img.shields.io/badge/-@ciphercartographer_-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/ciphercartographer)\
-[![X](https://img.shields.io/badge/-@ciphercartographer_-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ciphercartographer)\
+[![YouTube](https://img.shields.io/badge/-@ciphercartographer_-333333?style=for-the-badge&logo=youtube&logoColor=white&labelColor=E4405F)](https://www.youtube.com/ciphercartographer)\
+[![X](https://img.shields.io/badge/-@ciphercartographer_-333333?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ciphrcartogrphr)\
 [![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0cipher--cartographer%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/cipher-cartographer)\
 [![GitHub](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0burningvertex%20%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/burningvertex)
 
